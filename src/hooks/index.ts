@@ -1,2 +1,2 @@
-export * from "./use-shared";
+export * from "./use-share";
 export * from "./use-clipboard";
